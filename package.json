@@ -1,0 +1,19 @@
+{ "name": "afklock-win10",
+  "version": "0.1.0",
+  "description": "Help lock your windows workstation when you go afk.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/afklock-win10/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/afklock-win10.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/afklock-win10/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "GPL-3.0",
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
